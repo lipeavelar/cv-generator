@@ -1,7 +1,6 @@
 .template-box {
   display: flex;
   flex-direction: column;
-  flex: 1 0 20%;
   justify-content: center;
   align-items: center;
 }

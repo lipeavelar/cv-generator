@@ -1,0 +1,18 @@
+.template-base-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: darkslateblue;
+  color: white;
+  padding: 8px;
+}
+
+.template-base-header > a {
+  display: flex;
+  font-size: 2em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: 16px;
+}

@@ -1,42 +1,62 @@
 [
   {
     "name": "Template 1",
-    "imageName": "dummy_150x200.png"
+    "imageName": "dummy_150x200.png",
+    "componentName": "template1",
+    "path": "template-1"
   },
   {
     "name": "Template 2",
-    "imageName": "dummy_150x200.png"
+    "imageName": "dummy_150x200.png",
+    "componentName": "template2",
+    "path": "template-2"
   },
   {
     "name": "Template 3",
-    "imageName": "dummy_150x200.png"
+    "imageName": "dummy_150x200.png",
+    "componentName": "template3",
+    "path": "template-3"
   },
   {
     "name": "Template 4",
-    "imageName": "dummy_150x200.png"
+    "imageName": "dummy_150x200.png",
+    "componentName": "template4",
+    "path": "template-4"
   },
   {
     "name": "Template 5",
-    "imageName": "dummy_150x200.png"
+    "imageName": "dummy_150x200.png",
+    "componentName": "template5",
+    "path": "template-5"
   },
   {
     "name": "Template 6",
-    "imageName": "dummy_150x200.png"
+    "imageName": "dummy_150x200.png",
+    "componentName": "template6",
+    "path": "template-6"
   },
   {
     "name": "Template 7",
-    "imageName": "dummy_150x200.png"
+    "imageName": "dummy_150x200.png",
+    "componentName": "template7",
+    "path": "template-7"
   },
   {
     "name": "Template 8",
-    "imageName": "dummy_150x200.png"
+    "imageName": "dummy_150x200.png",
+    "componentName": "template8",
+    "path": "template-8"
   },
   {
     "name": "Template 9",
-    "imageName": "dummy_150x200.png"
+    "imageName": "dummy_150x200.png",
+    "componentName": "template9",
+    "path": "template-9"
   },
   {
     "name": "Template 10",
-    "imageName": "dummy_150x200.png"
+    "imageName": "dummy_150x200.png",
+    "componentName": "template10",
+    "path": "template-10"
   }
 ]

@@ -5,7 +5,7 @@ import Router from './routes';
 
 import './index.css';
 
-const rootElement = document.getElementById("root");
+const rootElement = document.getElementById('root');
 render(
   <BrowserRouter>
     <Router />
